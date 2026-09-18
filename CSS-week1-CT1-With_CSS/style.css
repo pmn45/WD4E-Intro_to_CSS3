@@ -1,0 +1,44 @@
+/* Bước 3: Thẻ nội dung (body) - họ phông chữ và kích thước phông chữ */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+/* Bước 4: Thẻ tiêu đề (header) - màu nền */
+header {
+    background-color: #f4f4f4;
+}
+
+/* Bước 5: Thẻ nav - màu nền */
+nav {
+    background-color: #333;
+}
+
+/* Bước 6: Thẻ chính (main) - màu nền và kích thước phông chữ */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Bước 7: Thẻ chân trang (footer) - màu nền */
+footer {
+    background-color: #222;
+}
+
+/* Bước 8: Thẻ li - thuộc tính hiển thị (display) và chiều rộng (width) */
+li {
+    display: inline-block;
+    width: 120px;
+}
+
+/* Bước 9: Thẻ h1 - căn chỉnh văn bản (text-align), họ phông chữ và màu sắc */
+h1 {
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    color: #0056b3;
+}
+
+/* Bước 10: Thẻ p - chiều cao dòng (line-height) */
+p {
+    line-height: 1.6;
+}
